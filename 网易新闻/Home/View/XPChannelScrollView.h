@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  XPChannelScrollView.h
 //  网易新闻
 //
 //  Created by 鹏 on 16/6/7.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface XPChannelScrollView : UIScrollView
 
 @end
-
